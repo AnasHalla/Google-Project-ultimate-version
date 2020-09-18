@@ -1,0 +1,36 @@
+<!DOCTYPE htlm>
+<html lang="en">
+<head>
+			<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<meta http-equiv= "X-UA-Compatible" content="ie=edge">
+			<link rel="stylesheet" href="style.css">
+			<title>Google</title>
+</head>
+<body>
+        <div id="navbar">       
+        <a href="#" id="gmail">Gmail</a>
+        <a href="#" id="image">Image</a>
+        <a href="#" id="menu"></a><img src="menu.png" height="20px" width="20px"></a>
+        <a href="#" id="sign-in">Sign in</a>
+    </div>
+
+    <div id="main">
+        <a href= "#" id="logo"><img src="logo.png"></a>
+        <input type="text" id ="search">
+        <div id="flexbox">
+        <button id="google-search-bt">Google Search</button><button id="random-search-bt">I'm Feeling Lucky</button>
+        </div>
+        <p id="google-text"> <a href="#" id="uk">United Kingdom</a></p>>
+      </div>
+      <div id="footer">
+          <a href="#" id="about">About</a>
+          <a href="#" id="advertising">Advertising</a>
+          <a href="#" id="business">Business</a>
+          <a href="#" id="hsw">How Search works</a>
+          <a href="#" id="consumers">Consumers Info</a>
+          <a href="#" id="terms">Terms</a>
+          <a href="#" id="settings">Settings</a>
+        </div>
+    </body>
+    </htlm>
